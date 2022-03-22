@@ -34,4 +34,7 @@ button {
   display: block;
   margin-right: auto;
   margin-left: auto;
+  background: black;
+  width: 342px;
+  height: 74px;
 }
