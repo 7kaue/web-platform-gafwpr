@@ -52,6 +52,10 @@ button {
   font-size: 16px;
 }
 
+button:active {
+  opacity:0.6;
+}
+
 a {
   margin-top: 140px;
   display: block;
