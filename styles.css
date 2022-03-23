@@ -5,9 +5,9 @@
 body {
   background: linear-gradient(
     180deg,
-    #0f0c29 -11.94%,
-    #302b63 51.32%,
-    #24243e 113.28%
+    green  -11.94%,
+    black  51.32%,
+    green  113.28%
   );
 }
 
